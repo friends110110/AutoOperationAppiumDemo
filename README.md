@@ -9,7 +9,9 @@ https://github.com/appium/sample-code/tree/master/sample-code/examples 官方示
 cmd 下 adb devices 一定要有设备才行
 
 如果遇到以下问题：
+
 1. 必须得保证 appium的路径 中没有空格，有空格会出问题的。
+
 2.
 > error: Failed to start an Appium session, err was: Error: Command failed: C:\Windows\system32\cmd.exe /s /c "D:\Android\SDK\platform-tools\adb.exe -s 192.168.56.101:5555 install "D:\ProgramFiles\Appium\node_modules\appium\build\settings_apk\settings_apk-debug.apk""
 > 
