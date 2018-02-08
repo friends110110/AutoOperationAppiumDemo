@@ -1,8 +1,8 @@
 # AutoOperationAppiumDemo
 
-libs下面放着必要的jar包
+  libs下面放着必要的jar包
 
-http://appium.io/ 官方网站
+    http://appium.io/ 官方网站
 
 https://github.com/appium/sample-code/tree/master/sample-code/examples 官方示例代码
 
